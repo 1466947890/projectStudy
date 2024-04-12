@@ -1,0 +1,13 @@
+.layout2_wrap {
+  background: #ccc;
+  overflow: hidden;
+}
+.layout2_wrap .layout2_nav {
+  float: left;
+}
+.layout2_wrap .layout2_nav .layout2_menu {
+  float: left;
+}
+.layout2_wrap .layout2_content {
+  float: left;
+}
